@@ -7,7 +7,6 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-green?style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-Database-blue?style=for-the-badge&logo=sqlite)
-![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)
 
 </div>
 
